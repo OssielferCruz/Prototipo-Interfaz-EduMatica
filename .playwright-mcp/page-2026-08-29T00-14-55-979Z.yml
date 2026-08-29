@@ -1,0 +1,160 @@
+- generic [ref=f1e66]:
+  - complementary [ref=f1e67]:
+    - generic [ref=f1e68]:
+      - img "EduMATICA" [ref=f1e69]
+      - paragraph [ref=f1e70]: Educación Primaria Nicaragua
+    - generic [ref=f1e71]:
+      - generic [ref=f1e72]:
+        - generic [ref=f1e73]: 🦋
+        - generic [ref=f1e74]:
+          - paragraph [ref=f1e75]: Sofía
+          - paragraph [ref=f1e76]: "@sofia123"
+      - generic [ref=f1e77]:
+        - generic [ref=f1e78]:
+          - img [ref=f1e79]
+          - text: 1340 XP
+        - generic [ref=f1e81]: Niv. 7
+    - navigation [ref=f1e84]:
+      - button "Inicio" [ref=f1e85]:
+        - img [ref=f1e86]
+        - generic [ref=f1e91]: Inicio
+      - button "Lecciones" [ref=f1e94]:
+        - img [ref=f1e95]
+        - generic [ref=f1e97]: Lecciones
+        - img [ref=f1e250]
+      - button "Juegos" [ref=f1e98]:
+        - img [ref=f1e99]
+        - generic [ref=f1e101]: Juegos
+      - button "Logros" [ref=f1e102]:
+        - img [ref=f1e103]
+        - generic [ref=f1e109]: Logros
+      - button "Perfil" [ref=f1e110]:
+        - img [ref=f1e111]
+        - generic [ref=f1e114]: Perfil
+    - generic [ref=f1e115]:
+      - generic [ref=f1e116]:
+        - generic [ref=f1e117]:
+          - img [ref=f1e118]
+          - generic [ref=f1e120]: 7 días de racha
+        - generic [ref=f1e121]: 3°
+      - button "Cerrar sesión" [ref=f1e122]:
+        - img [ref=f1e123]
+        - generic [ref=f1e126]: Cerrar sesión
+  - main [ref=f1e128]:
+    - generic [ref=f1e252]:
+      - generic [ref=f1e253]:
+        - button "🔢 Mate" [ref=f1e254] [cursor=pointer]:
+          - generic [ref=f1e255]: 🔢
+          - text: Mate
+        - button "📚 Lengua" [ref=f1e256] [cursor=pointer]:
+          - generic [ref=f1e257]: 📚
+          - text: Lengua
+        - button "💚 Valores" [ref=f1e258] [cursor=pointer]:
+          - generic [ref=f1e259]: 💚
+          - text: Valores
+        - button "🇳🇮 Patria" [active] [ref=f1e260] [cursor=pointer]:
+          - generic [ref=f1e261]: 🇳🇮
+          - text: Patria
+        - button "🔬 Ciencias" [ref=f1e262] [cursor=pointer]:
+          - generic [ref=f1e263]: 🔬
+          - text: Ciencias
+        - button "1er" [ref=f1e265] [cursor=pointer]
+        - button "2do" [ref=f1e266] [cursor=pointer]
+        - button "3er ⭐" [ref=f1e267] [cursor=pointer]
+        - button "4to" [ref=f1e268] [cursor=pointer]
+        - button "5to" [ref=f1e269] [cursor=pointer]
+        - button "6to" [ref=f1e270] [cursor=pointer]
+        - generic [ref=f1e272]:
+          - img [ref=f1e273]
+          - text: 1/8 lecciones
+      - generic [ref=f1e281]:
+        - img:
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: ★
+          - generic: NI
+          - generic: NI
+          - generic: NI
+        - generic [ref=f1e283]:
+          - generic [ref=f1e284]: 🚀
+          - generic [ref=f1e285]: ¡Comenzar!
+        - img
+        - generic [ref=f1e453]:
+          - generic [ref=f1e454]: 🏺
+          - button [ref=f1e455]:
+            - img [ref=f1e457]
+          - generic [ref=f1e459]: ⭐
+          - generic [ref=f1e460]: ⭐
+          - generic [ref=f1e461]: ⭐
+          - generic [ref=f1e462]: ⭐
+          - generic [ref=f1e464]:
+            - paragraph [ref=f1e465]: Pueblos Indígenas
+            - paragraph [ref=f1e466]: ✓ Completada
+        - generic [ref=f1e467]:
+          - generic [ref=f1e468]: ⛵
+          - button "2" [ref=f1e470]:
+            - generic [ref=f1e472]: "2"
+          - generic [ref=f1e474]:
+            - paragraph [ref=f1e475]: La Colonización Española
+            - paragraph [ref=f1e476]: ▶ Disponible
+        - generic [ref=f1e477]:
+          - button [ref=f1e478]:
+            - img [ref=f1e479]
+          - generic [ref=f1e483]:
+            - paragraph [ref=f1e484]: Geografía de Nicaragua
+            - paragraph [ref=f1e485]: 🔒 Bloqueada
+        - generic [ref=f1e486]:
+          - button [ref=f1e487]:
+            - img [ref=f1e488]
+          - generic [ref=f1e492]:
+            - paragraph [ref=f1e493]: El Lago Cocibolca
+            - paragraph [ref=f1e494]: 🔒 Bloqueada
+        - generic [ref=f1e495]:
+          - button [ref=f1e496]:
+            - img [ref=f1e497]
+          - generic [ref=f1e501]:
+            - paragraph [ref=f1e502]: Departamentos y Regiones
+            - paragraph [ref=f1e503]: 🔒 Bloqueada
+        - generic [ref=f1e504]:
+          - button [ref=f1e505]:
+            - img [ref=f1e506]
+          - generic [ref=f1e510]:
+            - paragraph [ref=f1e511]: La Batalla de San Jacinto
+            - paragraph [ref=f1e512]: 🔒 Bloqueada
+        - generic [ref=f1e513]:
+          - button [ref=f1e514]:
+            - img [ref=f1e515]
+          - generic [ref=f1e519]:
+            - paragraph [ref=f1e520]: Andrés Castro
+            - paragraph [ref=f1e521]: 🔒 Bloqueada
+        - generic [ref=f1e522]:
+          - button [ref=f1e523]:
+            - img [ref=f1e524]
+          - generic [ref=f1e528]:
+            - paragraph [ref=f1e529]: Símbolos Naturales
+            - paragraph [ref=f1e530]: 🔒 Bloqueada
+        - generic [ref=f1e357]:
+          - generic [ref=f1e358]: 🏆
+          - generic [ref=f1e359]: Sección completada
+        - generic [ref=f1e532]:
+          - generic [ref=f1e533]: 🏆
+          - generic [ref=f1e534]: Sección completada

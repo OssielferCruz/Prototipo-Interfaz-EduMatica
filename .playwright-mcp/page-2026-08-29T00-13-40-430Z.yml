@@ -1,0 +1,155 @@
+- generic [ref=f1e66]:
+  - complementary [ref=f1e67]:
+    - generic [ref=f1e68]:
+      - img "EduMATICA" [ref=f1e69]
+      - paragraph [ref=f1e70]: Educación Primaria Nicaragua
+    - generic [ref=f1e71]:
+      - generic [ref=f1e72]:
+        - generic [ref=f1e73]: 🦋
+        - generic [ref=f1e74]:
+          - paragraph [ref=f1e75]: Sofía
+          - paragraph [ref=f1e76]: "@sofia123"
+      - generic [ref=f1e77]:
+        - generic [ref=f1e78]:
+          - img [ref=f1e79]
+          - text: 1340 XP
+        - generic [ref=f1e81]: Niv. 7
+    - navigation [ref=f1e84]:
+      - button "Inicio" [ref=f1e85]:
+        - img [ref=f1e86]
+        - generic [ref=f1e91]: Inicio
+      - button "Lecciones" [active] [ref=f1e94]:
+        - img [ref=f1e95]
+        - generic [ref=f1e97]: Lecciones
+        - img [ref=f1e250]
+      - button "Juegos" [ref=f1e98]:
+        - img [ref=f1e99]
+        - generic [ref=f1e101]: Juegos
+      - button "Logros" [ref=f1e102]:
+        - img [ref=f1e103]
+        - generic [ref=f1e109]: Logros
+      - button "Perfil" [ref=f1e110]:
+        - img [ref=f1e111]
+        - generic [ref=f1e114]: Perfil
+    - generic [ref=f1e115]:
+      - generic [ref=f1e116]:
+        - generic [ref=f1e117]:
+          - img [ref=f1e118]
+          - generic [ref=f1e120]: 7 días de racha
+        - generic [ref=f1e121]: 3°
+      - button "Cerrar sesión" [ref=f1e122]:
+        - img [ref=f1e123]
+        - generic [ref=f1e126]: Cerrar sesión
+  - main [ref=f1e128]:
+    - generic [ref=f1e252]:
+      - generic [ref=f1e253]:
+        - button "🔢 Mate" [ref=f1e254] [cursor=pointer]:
+          - generic [ref=f1e255]: 🔢
+          - text: Mate
+        - button "📚 Lengua" [ref=f1e256] [cursor=pointer]:
+          - generic [ref=f1e257]: 📚
+          - text: Lengua
+        - button "💚 Valores" [ref=f1e258] [cursor=pointer]:
+          - generic [ref=f1e259]: 💚
+          - text: Valores
+        - button "🇳🇮 Patria" [ref=f1e260] [cursor=pointer]:
+          - generic [ref=f1e261]: 🇳🇮
+          - text: Patria
+        - button "🔬 Ciencias" [ref=f1e262] [cursor=pointer]:
+          - generic [ref=f1e263]: 🔬
+          - text: Ciencias
+        - button "1er" [ref=f1e265] [cursor=pointer]
+        - button "2do" [ref=f1e266] [cursor=pointer]
+        - button "3er ⭐" [ref=f1e267] [cursor=pointer]
+        - button "4to" [ref=f1e268] [cursor=pointer]
+        - button "5to" [ref=f1e269] [cursor=pointer]
+        - button "6to" [ref=f1e270] [cursor=pointer]
+        - generic [ref=f1e272]:
+          - img [ref=f1e273]
+          - text: 3/6 lecciones
+      - generic [ref=f1e281]:
+        - img:
+          - generic: ÷
+          - generic: ×
+          - generic: +
+          - generic: −
+          - generic: =
+          - generic: √
+          - generic: π
+          - generic: ∑
+          - generic: "%"
+          - generic: ∞
+          - generic: ²
+          - generic: ÷
+          - generic: ×
+          - generic: +
+          - generic: −
+          - generic: =
+          - generic: √
+          - generic: π
+          - generic: ∑
+          - generic: "%"
+          - generic: ∞
+          - generic: ²
+          - generic: ÷
+          - generic: ×
+        - generic [ref=f1e283]:
+          - generic [ref=f1e284]: 🚀
+          - generic [ref=f1e285]: ¡Comenzar!
+        - img
+        - generic [ref=f1e286]:
+          - generic [ref=f1e287]: 🔢
+          - button [ref=f1e288]:
+            - img [ref=f1e290]
+          - generic [ref=f1e292]: ⭐
+          - generic [ref=f1e293]: ⭐
+          - generic [ref=f1e294]: ⭐
+          - generic [ref=f1e295]: ⭐
+          - generic [ref=f1e297]:
+            - paragraph [ref=f1e298]: Números hasta 10,000
+            - paragraph [ref=f1e299]: ✓ Completada
+        - generic [ref=f1e300]:
+          - generic [ref=f1e301]: ✖️
+          - button [ref=f1e302]:
+            - img [ref=f1e304]
+          - generic [ref=f1e306]: ⭐
+          - generic [ref=f1e307]: ⭐
+          - generic [ref=f1e308]: ⭐
+          - generic [ref=f1e309]: ⭐
+          - generic [ref=f1e311]:
+            - paragraph [ref=f1e312]: Tablas del 6 al 10
+            - paragraph [ref=f1e313]: ✓ Completada
+        - generic [ref=f1e314]:
+          - generic [ref=f1e315]: ➗
+          - button [ref=f1e316]:
+            - img [ref=f1e318]
+          - generic [ref=f1e320]: ⭐
+          - generic [ref=f1e321]: ⭐
+          - generic [ref=f1e322]: ⭐
+          - generic [ref=f1e323]: ⭐
+          - generic [ref=f1e325]:
+            - paragraph [ref=f1e326]: División Básica
+            - paragraph [ref=f1e327]: ✓ Completada
+        - generic [ref=f1e328]:
+          - generic [ref=f1e329]: 🍕
+          - button "4" [ref=f1e331]:
+            - generic [ref=f1e333]: "4"
+          - generic [ref=f1e335]:
+            - paragraph [ref=f1e336]: Fracciones Simples
+            - paragraph [ref=f1e337]: ▶ Disponible
+        - generic [ref=f1e338]:
+          - button [ref=f1e339]:
+            - img [ref=f1e340]
+          - generic [ref=f1e344]:
+            - paragraph [ref=f1e345]: El Perímetro
+            - paragraph [ref=f1e346]: 🔒 Bloqueada
+        - generic [ref=f1e347]:
+          - button [ref=f1e348]:
+            - img [ref=f1e349]
+          - generic [ref=f1e353]:
+            - paragraph [ref=f1e354]: El Tiempo
+            - paragraph [ref=f1e355]: 🔒 Bloqueada
+        - generic [ref=f1e357]:
+          - generic [ref=f1e358]: 🏆
+          - generic [ref=f1e359]: Sección completada
+          - generic [ref=f1e360]: ⭐

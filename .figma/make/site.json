@@ -1,0 +1,10 @@
+{
+  "description": "Interactive educational platform offering primary school lessons, games, and progress tracking designed for children following Nicaragua's official curriculum.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

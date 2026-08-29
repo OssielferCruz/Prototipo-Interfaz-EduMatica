@@ -1,0 +1,352 @@
+- generic [ref=e103]:
+  - complementary [ref=e104]:
+    - generic [ref=e105]:
+      - img "EduMATICA" [ref=e106]
+      - paragraph [ref=e107]: Portal Docente
+    - generic [ref=e108]:
+      - generic [ref=e109]:
+        - generic [ref=e110]: 👩‍🏫
+        - generic [ref=e111]:
+          - paragraph [ref=e112]: Ana María Castro
+          - paragraph [ref=e113]: Escuela Pública Rubén Darío
+      - generic [ref=e114]:
+        - img [ref=e115]
+        - generic [ref=e118]: 3° grado
+        - generic [ref=e119]: Docente
+    - navigation [ref=e120]:
+      - button "Inicio" [ref=e121]:
+        - img [ref=e122]
+        - generic [ref=e127]: Inicio
+      - button "Mis Alumnos" [ref=e130]:
+        - img [ref=e131]
+        - generic [ref=e136]: Mis Alumnos
+        - img [ref=e299]
+      - button "Planificación" [ref=e137]:
+        - img [ref=e138]
+        - generic [ref=e140]: Planificación
+      - button "Material MINED" [ref=e141]:
+        - img [ref=e142]
+        - generic [ref=e145]: Material MINED
+    - button "Cerrar sesión" [ref=e147]:
+      - img [ref=e148]
+      - generic [ref=e151]: Cerrar sesión
+  - main [ref=e153]:
+    - generic [ref=e301]:
+      - generic [ref=e302]:
+        - generic [ref=e303]:
+          - generic [ref=e304]:
+            - paragraph [ref=e305]: MONITOREO DE ALUMNOS
+            - heading "Mis Alumnos" [level=1] [ref=e306]
+            - paragraph [ref=e307]: 3° grado · 15 estudiantes
+          - generic [ref=e308]:
+            - generic [ref=e309]:
+              - generic [ref=e310]: 66%
+              - generic [ref=e311]: Promedio
+            - generic [ref=e312]:
+              - generic [ref=e313]: "7"
+              - generic [ref=e314]: Activos hoy
+        - img [ref=e315]
+      - generic [ref=e317]:
+        - generic [ref=e318]:
+          - generic [ref=e319]:
+            - img [ref=e320]
+            - textbox "Buscar alumno..." [ref=e323]
+          - generic [ref=e324]:
+            - generic [ref=e325]: "Ordenar:"
+            - button "Nombre" [ref=e688] [cursor=pointer]
+            - button "XP" [ref=e689] [cursor=pointer]:
+              - text: XP
+              - img [ref=e690]
+            - button "Promedio" [ref=e692] [cursor=pointer]
+          - generic [ref=e331]: 15 alumnos
+        - generic [ref=e332]:
+          - generic [ref=e333]:
+            - 'button "🌸 María José Flores EN LÍNEA 1840 XP · Niv. 10 14 días Último: Hoy 89% promedio 22 juegos" [active] [ref=e334] [cursor=pointer]':
+              - generic [ref=e335]: 🌸
+              - generic [ref=e337]:
+                - generic [ref=e338]:
+                  - generic [ref=e339]: María José Flores
+                  - generic [ref=e340]: EN LÍNEA
+                - generic [ref=e341]:
+                  - generic [ref=e342]:
+                    - img [ref=e343]
+                    - text: 1840 XP · Niv. 10
+                  - generic [ref=e345]:
+                    - img [ref=e346]
+                    - text: 14 días
+                  - generic [ref=e348]: "Último: Hoy"
+              - generic [ref=e349]:
+                - generic [ref=e350]: 89%
+                - generic [ref=e351]: promedio
+              - generic [ref=e355]: 22 juegos
+              - img [ref=e693]
+            - generic [ref=e695]:
+              - paragraph [ref=e696]: Progreso por asignatura
+              - generic [ref=e697]:
+                - generic [ref=e698]:
+                  - text: 🔢
+                  - generic [ref=e701]: 92%
+                  - generic [ref=e702]: Matemática
+                - generic [ref=e703]:
+                  - text: 📚
+                  - generic [ref=e706]: 88%
+                  - generic [ref=e707]: Lengua
+                - generic [ref=e708]:
+                  - text: 💚
+                  - generic [ref=e711]: 95%
+                  - generic [ref=e712]: Creciendo
+                - generic [ref=e713]:
+                  - text: 🇳🇮
+                  - generic [ref=e716]: 80%
+                  - generic [ref=e717]: Identidad
+                - generic [ref=e718]:
+                  - text: 🔬
+                  - generic [ref=e721]: 90%
+                  - generic [ref=e722]: Ciencias
+          - 'button "🌟 Daniela Cruz EN LÍNEA 1790 XP · Niv. 9 15 días Último: Hoy 88% promedio 21 juegos" [ref=e359] [cursor=pointer]':
+            - generic [ref=e360]: 🌟
+            - generic [ref=e362]:
+              - generic [ref=e363]:
+                - generic [ref=e364]: Daniela Cruz
+                - generic [ref=e365]: EN LÍNEA
+              - generic [ref=e366]:
+                - generic [ref=e367]:
+                  - img [ref=e368]
+                  - text: 1790 XP · Niv. 9
+                - generic [ref=e370]:
+                  - img [ref=e371]
+                  - text: 15 días
+                - generic [ref=e373]: "Último: Hoy"
+            - generic [ref=e374]:
+              - generic [ref=e375]: 88%
+              - generic [ref=e376]: promedio
+            - generic [ref=e380]: 21 juegos
+            - img [ref=e381]
+          - 'button "🌻 Sofía Isabel Martínez EN LÍNEA 1760 XP · Niv. 9 12 días Último: Hoy 85% promedio 20 juegos" [ref=e384] [cursor=pointer]':
+            - generic [ref=e385]: 🌻
+            - generic [ref=e387]:
+              - generic [ref=e388]:
+                - generic [ref=e389]: Sofía Isabel Martínez
+                - generic [ref=e390]: EN LÍNEA
+              - generic [ref=e391]:
+                - generic [ref=e392]:
+                  - img [ref=e393]
+                  - text: 1760 XP · Niv. 9
+                - generic [ref=e395]:
+                  - img [ref=e396]
+                  - text: 12 días
+                - generic [ref=e398]: "Último: Hoy"
+            - generic [ref=e399]:
+              - generic [ref=e400]: 85%
+              - generic [ref=e401]: promedio
+            - generic [ref=e405]: 20 juegos
+            - img [ref=e406]
+          - 'button "🦁 Alejandro García EN LÍNEA 1620 XP · Niv. 9 10 días Último: Hoy 80% promedio 19 juegos" [ref=e409] [cursor=pointer]':
+            - generic [ref=e410]: 🦁
+            - generic [ref=e412]:
+              - generic [ref=e413]:
+                - generic [ref=e414]: Alejandro García
+                - generic [ref=e415]: EN LÍNEA
+              - generic [ref=e416]:
+                - generic [ref=e417]:
+                  - img [ref=e418]
+                  - text: 1620 XP · Niv. 9
+                - generic [ref=e420]:
+                  - img [ref=e421]
+                  - text: 10 días
+                - generic [ref=e423]: "Último: Hoy"
+            - generic [ref=e424]:
+              - generic [ref=e425]: 80%
+              - generic [ref=e426]: promedio
+            - generic [ref=e430]: 19 juegos
+            - img [ref=e431]
+          - 'button "⚽ Carlos Alberto Ruiz EN LÍNEA 1520 XP · Niv. 8 7 días Último: Hoy 73% promedio 18 juegos" [ref=e434] [cursor=pointer]':
+            - generic [ref=e435]: ⚽
+            - generic [ref=e437]:
+              - generic [ref=e438]:
+                - generic [ref=e439]: Carlos Alberto Ruiz
+                - generic [ref=e440]: EN LÍNEA
+              - generic [ref=e441]:
+                - generic [ref=e442]:
+                  - img [ref=e443]
+                  - text: 1520 XP · Niv. 8
+                - generic [ref=e445]:
+                  - img [ref=e446]
+                  - text: 7 días
+                - generic [ref=e448]: "Último: Hoy"
+            - generic [ref=e449]:
+              - generic [ref=e450]: 73%
+              - generic [ref=e451]: promedio
+            - generic [ref=e455]: 18 juegos
+            - img [ref=e456]
+          - 'button "🌈 Valentina Rodríguez EN LÍNEA 1430 XP · Niv. 8 8 días Último: Hoy 73% promedio 16 juegos" [ref=e459] [cursor=pointer]':
+            - generic [ref=e460]: 🌈
+            - generic [ref=e462]:
+              - generic [ref=e463]:
+                - generic [ref=e464]: Valentina Rodríguez
+                - generic [ref=e465]: EN LÍNEA
+              - generic [ref=e466]:
+                - generic [ref=e467]:
+                  - img [ref=e468]
+                  - text: 1430 XP · Niv. 8
+                - generic [ref=e470]:
+                  - img [ref=e471]
+                  - text: 8 días
+                - generic [ref=e473]: "Último: Hoy"
+            - generic [ref=e474]:
+              - generic [ref=e475]: 73%
+              - generic [ref=e476]: promedio
+            - generic [ref=e480]: 16 juegos
+            - img [ref=e481]
+          - 'button "🦜 Paola Andrea Sánchez EN LÍNEA 1380 XP · Niv. 7 9 días Último: Hoy 71% promedio 15 juegos" [ref=e484] [cursor=pointer]':
+            - generic [ref=e485]: 🦜
+            - generic [ref=e487]:
+              - generic [ref=e488]:
+                - generic [ref=e489]: Paola Andrea Sánchez
+                - generic [ref=e490]: EN LÍNEA
+              - generic [ref=e491]:
+                - generic [ref=e492]:
+                  - img [ref=e493]
+                  - text: 1380 XP · Niv. 7
+                - generic [ref=e495]:
+                  - img [ref=e496]
+                  - text: 9 días
+                - generic [ref=e498]: "Último: Hoy"
+            - generic [ref=e499]:
+              - generic [ref=e500]: 71%
+              - generic [ref=e501]: promedio
+            - generic [ref=e505]: 15 juegos
+            - img [ref=e506]
+          - 'button "🌺 Gabriela Torres 1280 XP · Niv. 7 6 días Último: Ayer 65% promedio 13 juegos" [ref=e509] [cursor=pointer]':
+            - generic [ref=e510]: 🌺
+            - generic [ref=e511]:
+              - generic [ref=e513]: Gabriela Torres
+              - generic [ref=e514]:
+                - generic [ref=e515]:
+                  - img [ref=e516]
+                  - text: 1280 XP · Niv. 7
+                - generic [ref=e518]:
+                  - img [ref=e519]
+                  - text: 6 días
+                - generic [ref=e521]: "Último: Ayer"
+            - generic [ref=e522]:
+              - generic [ref=e523]: 65%
+              - generic [ref=e524]: promedio
+            - generic [ref=e528]: 13 juegos
+            - img [ref=e529]
+          - 'button "🦚 Nataly González 1250 XP · Niv. 7 5 días Último: Ayer 63% promedio 12 juegos" [ref=e532] [cursor=pointer]':
+            - generic [ref=e533]: 🦚
+            - generic [ref=e534]:
+              - generic [ref=e536]: Nataly González
+              - generic [ref=e537]:
+                - generic [ref=e538]:
+                  - img [ref=e539]
+                  - text: 1250 XP · Niv. 7
+                - generic [ref=e541]:
+                  - img [ref=e542]
+                  - text: 5 días
+                - generic [ref=e544]: "Último: Ayer"
+            - generic [ref=e545]:
+              - generic [ref=e546]: 63%
+              - generic [ref=e547]: promedio
+            - generic [ref=e551]: 12 juegos
+            - img [ref=e552]
+          - 'button "🦋 Ana Lucía Pérez 1200 XP · Niv. 7 5 días Último: Ayer 63% promedio 14 juegos" [ref=e555] [cursor=pointer]':
+            - generic [ref=e556]: 🦋
+            - generic [ref=e557]:
+              - generic [ref=e559]: Ana Lucía Pérez
+              - generic [ref=e560]:
+                - generic [ref=e561]:
+                  - img [ref=e562]
+                  - text: 1200 XP · Niv. 7
+                - generic [ref=e564]:
+                  - img [ref=e565]
+                  - text: 5 días
+                - generic [ref=e567]: "Último: Ayer"
+            - generic [ref=e568]:
+              - generic [ref=e569]: 63%
+              - generic [ref=e570]: promedio
+            - generic [ref=e573]: 14 juegos
+            - img [ref=e574]
+          - 'button "🎸 Jorge Luis Hernández 1100 XP · Niv. 6 3 días Último: Ayer 56% promedio 11 juegos" [ref=e577] [cursor=pointer]':
+            - generic [ref=e578]: 🎸
+            - generic [ref=e579]:
+              - generic [ref=e581]: Jorge Luis Hernández
+              - generic [ref=e582]:
+                - generic [ref=e583]:
+                  - img [ref=e584]
+                  - text: 1100 XP · Niv. 6
+                - generic [ref=e586]:
+                  - img [ref=e587]
+                  - text: 3 días
+                - generic [ref=e589]: "Último: Ayer"
+            - generic [ref=e590]:
+              - generic [ref=e591]: 56%
+              - generic [ref=e592]: promedio
+            - generic [ref=e596]: 11 juegos
+            - img [ref=e597]
+          - 'button "⚡ Roberto Manuel Díaz 1050 XP · Niv. 6 4 días Último: Ayer 55% promedio 10 juegos" [ref=e600] [cursor=pointer]':
+            - generic [ref=e601]: ⚡
+            - generic [ref=e602]:
+              - generic [ref=e604]: Roberto Manuel Díaz
+              - generic [ref=e605]:
+                - generic [ref=e606]:
+                  - img [ref=e607]
+                  - text: 1050 XP · Niv. 6
+                - generic [ref=e609]:
+                  - img [ref=e610]
+                  - text: 4 días
+                - generic [ref=e612]: "Último: Ayer"
+            - generic [ref=e613]:
+              - generic [ref=e614]: 55%
+              - generic [ref=e615]: promedio
+            - generic [ref=e619]: 10 juegos
+            - img [ref=e620]
+          - 'button "🚀 Diego Andrés López 900 XP · Niv. 5 2 días Último: Hace 3 días 46% promedio 9 juegos" [ref=e623] [cursor=pointer]':
+            - generic [ref=e624]: 🚀
+            - generic [ref=e625]:
+              - generic [ref=e627]: Diego Andrés López
+              - generic [ref=e628]:
+                - generic [ref=e629]:
+                  - img [ref=e630]
+                  - text: 900 XP · Niv. 5
+                - generic [ref=e632]:
+                  - img [ref=e633]
+                  - text: 2 días
+                - generic [ref=e635]: "Último: Hace 3 días"
+            - generic [ref=e636]:
+              - generic [ref=e637]: 46%
+              - generic [ref=e638]: promedio
+            - generic [ref=e642]: 9 juegos
+            - img [ref=e643]
+          - 'button "🐢 Luis Fernando Ramos 780 XP · Niv. 4 1 días Último: Hace 5 días 41% promedio 7 juegos" [ref=e646] [cursor=pointer]':
+            - generic [ref=e647]: 🐢
+            - generic [ref=e648]:
+              - generic [ref=e650]: Luis Fernando Ramos
+              - generic [ref=e651]:
+                - generic [ref=e652]:
+                  - img [ref=e653]
+                  - text: 780 XP · Niv. 4
+                - generic [ref=e655]:
+                  - img [ref=e656]
+                  - text: 1 días
+                - generic [ref=e658]: "Último: Hace 5 días"
+            - generic [ref=e659]:
+              - generic [ref=e660]: 41%
+              - generic [ref=e661]: promedio
+            - generic [ref=e665]: 7 juegos
+            - img [ref=e666]
+          - 'button "🎮 Kevin Martínez 680 XP · Niv. 4 Último: Hace 1 sem 35% promedio 6 juegos" [ref=e669] [cursor=pointer]':
+            - generic [ref=e670]: 🎮
+            - generic [ref=e671]:
+              - generic [ref=e673]: Kevin Martínez
+              - generic [ref=e674]:
+                - generic [ref=e675]:
+                  - img [ref=e676]
+                  - text: 680 XP · Niv. 4
+                - generic [ref=e678]: "Último: Hace 1 sem"
+            - generic [ref=e679]:
+              - generic [ref=e680]: 35%
+              - generic [ref=e681]: promedio
+            - generic [ref=e685]: 6 juegos
+            - img [ref=e686]

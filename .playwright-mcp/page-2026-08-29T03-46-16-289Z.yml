@@ -1,0 +1,332 @@
+- generic [ref=e66]:
+  - complementary [ref=e67]:
+    - generic [ref=e68]:
+      - img "EduMATICA" [ref=e69]
+      - paragraph [ref=e70]: Educación Primaria Nicaragua
+    - generic [ref=e71]:
+      - generic [ref=e72]:
+        - generic [ref=e73]: 🦋
+        - generic [ref=e74]:
+          - paragraph [ref=e75]: Sofía
+          - paragraph [ref=e76]: "@sofia123"
+      - generic [ref=e77]:
+        - generic [ref=e78]:
+          - img [ref=e79]
+          - text: 1340 XP
+        - generic [ref=e81]: Niv. 7
+    - navigation [ref=e84]:
+      - button "Inicio" [ref=e85]:
+        - img [ref=e86]
+        - generic [ref=e91]: Inicio
+      - button "Lecciones" [ref=e94]:
+        - img [ref=e95]
+        - generic [ref=e97]: Lecciones
+      - button "Juegos" [ref=e98]:
+        - img [ref=e99]
+        - generic [ref=e101]: Juegos
+        - img [ref=e254]
+      - button "Material" [ref=e102]:
+        - img [ref=e103]
+        - generic [ref=e105]: Material
+      - button "Logros" [ref=e106]:
+        - img [ref=e107]
+        - generic [ref=e113]: Logros
+      - button "Perfil" [ref=e114]:
+        - img [ref=e115]
+        - generic [ref=e118]: Perfil
+    - generic [ref=e119]:
+      - generic [ref=e120]:
+        - generic [ref=e121]:
+          - img [ref=e122]
+          - generic [ref=e124]: 7 días de racha
+        - generic [ref=e125]: 3°
+      - button "Cerrar sesión" [ref=e126]:
+        - img [ref=e127]
+        - generic [ref=e130]: Cerrar sesión
+  - main [ref=e132]:
+    - generic [ref=e256]:
+      - generic [ref=e257]:
+        - generic [ref=e258]:
+          - generic [ref=e259]:
+            - paragraph [ref=e260]: JUEGOS EDUCATIVOS
+            - heading "¡A Jugar!" [level=1] [ref=e261]
+            - paragraph [ref=e262]: Aprende jugando — 8 juegos completados
+            - generic [ref=e263]:
+              - generic [ref=e264]: 🎮 8 jugados
+              - generic [ref=e265]: ⚡ hasta 1000 XP
+          - generic [ref=e268]: 🎮
+        - img [ref=e269]
+      - generic [ref=e271]:
+        - generic [ref=e272]:
+          - button "Todos" [ref=e273] [cursor=pointer]
+          - button "🔢 Mate" [ref=e274] [cursor=pointer]
+          - button "📚 Lengua" [ref=e275] [cursor=pointer]
+          - button "💚 Valores" [ref=e276] [cursor=pointer]
+          - button "🇳🇮 Patria" [ref=e277] [cursor=pointer]
+          - button "🔬 Ciencias" [ref=e278] [cursor=pointer]
+        - generic [ref=e279]:
+          - generic [ref=e280]: ❓ Preguntas y Respuestas
+          - generic [ref=e282]: 13 juegos
+        - generic [ref=e283]:
+          - generic [ref=e284]:
+            - generic: ⚡
+            - generic [ref=e285]:
+              - generic [ref=e286]:
+                - generic [ref=e287]: ★
+                - generic [ref=e288]: ★
+                - generic [ref=e289]: ★
+              - generic [ref=e290]: +60 XP
+            - generic [ref=e291]:
+              - paragraph [ref=e292]: Suma Rápida
+              - paragraph [ref=e293]: Resuelve sumas lo más rápido que puedas
+              - button "¡Jugar! →" [ref=e294] [cursor=pointer]
+          - generic [ref=e295]:
+            - generic: 🍕
+            - generic [ref=e296]:
+              - generic [ref=e297]:
+                - generic [ref=e298]: ★
+                - generic [ref=e299]: ★
+                - generic [ref=e300]: ★
+              - generic [ref=e301]: +80 XP
+            - generic [ref=e302]:
+              - paragraph [ref=e303]: El Mundo de las Fracciones
+              - paragraph [ref=e304]: Aprende fracciones jugando
+              - button "¡Jugar! →" [ref=e305] [cursor=pointer]
+          - generic [ref=e306]:
+            - generic: 🗣️
+            - generic [ref=e307]:
+              - generic [ref=e308]:
+                - generic [ref=e309]: ★
+                - generic [ref=e310]: ★
+                - generic [ref=e311]: ★
+              - generic [ref=e312]: +60 XP
+            - generic [ref=e313]:
+              - paragraph [ref=e314]: ¡A Silabear!
+              - paragraph [ref=e315]: Separa las palabras en sílabas
+              - button "¡Jugar! →" [ref=e316] [cursor=pointer]
+          - generic [ref=e317]:
+            - generic: ✍️
+            - generic [ref=e318]:
+              - generic [ref=e319]:
+                - generic [ref=e320]: ★
+                - generic [ref=e321]: ★
+                - generic [ref=e322]: ★
+              - generic [ref=e323]: +100 XP
+            - generic [ref=e324]:
+              - paragraph [ref=e325]: "Quiz: Rubén Darío"
+              - paragraph [ref=e326]: ¿Qué sabes del Príncipe de las Letras?
+              - button "¡Jugar! →" [ref=e327] [cursor=pointer]
+          - generic [ref=e328]:
+            - generic: 🤔
+            - generic [ref=e329]:
+              - generic [ref=e330]:
+                - generic [ref=e331]: ★
+                - generic [ref=e332]: ★
+                - generic [ref=e333]: ★
+              - generic [ref=e334]: +60 XP
+            - generic [ref=e335]:
+              - paragraph [ref=e336]: ¿Qué Harías Tú?
+              - paragraph [ref=e337]: Elige la respuesta correcta en cada situación
+              - button "¡Jugar! →" [ref=e338] [cursor=pointer]
+          - generic [ref=e339]:
+            - generic: 🛡️
+            - generic [ref=e340]:
+              - generic [ref=e341]:
+                - generic [ref=e342]: ★
+                - generic [ref=e343]: ★
+                - generic [ref=e344]: ★
+              - generic [ref=e345]: +80 XP
+            - generic [ref=e346]:
+              - paragraph [ref=e347]: Símbolos de Nicaragua
+              - paragraph [ref=e348]: Conoce los símbolos de tu país
+              - button "¡Jugar! →" [ref=e349] [cursor=pointer]
+          - generic [ref=e350]:
+            - generic: 🌿
+            - generic [ref=e351]:
+              - generic [ref=e352]:
+                - generic [ref=e353]: ★
+                - generic [ref=e354]: ★
+                - generic [ref=e355]: ★
+              - generic [ref=e356]: +60 XP
+            - generic [ref=e357]:
+              - paragraph [ref=e358]: El Mundo Vivo
+              - paragraph [ref=e359]: Clasifica y conoce los seres vivos
+              - button "¡Jugar! →" [ref=e360] [cursor=pointer]
+          - generic [ref=e361]:
+            - generic: 🚀
+            - generic [ref=e362]:
+              - generic [ref=e363]:
+                - generic [ref=e364]: ★
+                - generic [ref=e365]: ★
+                - generic [ref=e366]: ★
+              - generic [ref=e367]: +80 XP
+            - generic [ref=e368]:
+              - paragraph [ref=e369]: Viaje al Sistema Solar
+              - paragraph [ref=e370]: Explora los planetas del universo
+              - button "¡Jugar! →" [ref=e371] [cursor=pointer]
+          - generic [ref=e372]:
+            - generic: ⭐
+            - generic [ref=e373]:
+              - generic [ref=e374]:
+                - generic [ref=e375]: ★
+                - generic [ref=e376]: ★
+                - generic [ref=e377]: ★
+              - generic [ref=e378]: +80 XP
+            - generic [ref=e379]:
+              - paragraph [ref=e380]: El General Sandino
+              - paragraph [ref=e381]: Conoce al héroe nacional de Nicaragua
+              - button "¡Jugar! →" [ref=e382] [cursor=pointer]
+          - generic [ref=e383]:
+            - generic: ⚔️
+            - generic [ref=e384]:
+              - generic [ref=e385]:
+                - generic [ref=e386]: ★
+                - generic [ref=e387]: ★
+                - generic [ref=e388]: ★
+              - generic [ref=e389]: +80 XP
+            - generic [ref=e390]:
+              - paragraph [ref=e391]: Batalla de San Jacinto
+              - paragraph [ref=e392]: 14 de septiembre de 1856 — victoria nicaragüense
+              - button "¡Jugar! →" [ref=e393] [cursor=pointer]
+          - generic [ref=e394]:
+            - generic: 🇳🇮
+            - generic [ref=e395]:
+              - generic [ref=e396]:
+                - generic [ref=e397]: ★
+                - generic [ref=e398]: ★
+                - generic [ref=e399]: ★
+              - generic [ref=e400]: +80 XP
+            - generic [ref=e401]:
+              - paragraph [ref=e402]: ¡Viva la Independencia!
+              - paragraph [ref=e403]: Los próceres que liberaron a Nicaragua
+              - button "¡Jugar! →" [ref=e404] [cursor=pointer]
+          - generic [ref=e405]:
+            - generic: 🌟
+            - generic [ref=e406]:
+              - generic [ref=e407]:
+                - generic [ref=e408]: ★
+                - generic [ref=e409]: ★
+                - generic [ref=e410]: ★
+              - generic [ref=e411]: +100 XP
+            - generic [ref=e412]:
+              - paragraph [ref=e413]: La Revolución Sandinista
+              - paragraph [ref=e414]: El triunfo del 19 de julio de 1979
+              - button "¡Jugar! →" [ref=e415] [cursor=pointer]
+          - generic [ref=e416]:
+            - generic: 🌹
+            - generic [ref=e417]:
+              - generic [ref=e418]:
+                - generic [ref=e419]: ★
+                - generic [ref=e420]: ★
+                - generic [ref=e421]: ★
+              - generic [ref=e422]: +80 XP
+            - generic [ref=e423]:
+              - paragraph [ref=e424]: Héroes y Mártires
+              - paragraph [ref=e425]: Quienes dieron su vida por la libertad de Nicaragua
+              - button "¡Jugar! →" [ref=e426] [cursor=pointer]
+        - generic [ref=e427]:
+          - generic [ref=e428]: 🎮 Juegos Dinámicos
+          - generic [ref=e430]: 6 juegos
+        - generic [ref=e431]:
+          - generic [ref=e432]:
+            - generic: 🍕
+            - generic [ref=e433]:
+              - generic [ref=e434]:
+                - generic [ref=e435]: ★
+                - generic [ref=e436]: ★
+                - generic [ref=e437]: ★
+              - generic [ref=e438]: +65 XP
+            - generic [ref=e439]:
+              - generic [ref=e440]: 🍕 Fracciones
+              - paragraph [ref=e441]: Pastel de Fracciones
+              - paragraph [ref=e442]: Colorea las partes correctas del pastel
+              - button "¡Jugar! →" [active] [ref=e443] [cursor=pointer]
+          - generic [ref=e444]:
+            - generic: 🔢
+            - generic [ref=e445]:
+              - generic [ref=e446]:
+                - generic [ref=e447]: ★
+                - generic [ref=e448]: ★
+                - generic [ref=e449]: ★
+              - generic [ref=e450]: +50 XP
+            - generic [ref=e451]:
+              - generic [ref=e452]: 🔢 Asociación
+              - paragraph [ref=e453]: Asocia Números
+              - paragraph [ref=e454]: Une cada número con el grupo correcto de objetos
+              - button "¡Jugar! →" [ref=e455] [cursor=pointer]
+          - generic [ref=e456]:
+            - generic: 📏
+            - generic [ref=e457]:
+              - generic [ref=e458]:
+                - generic [ref=e459]: ★
+                - generic [ref=e460]: ★
+                - generic [ref=e461]: ★
+              - generic [ref=e462]: +60 XP
+            - generic [ref=e463]:
+              - generic [ref=e464]: 📏 Recta
+              - paragraph [ref=e465]: Recta Numérica
+              - paragraph [ref=e466]: Toca donde va cada número en la recta
+              - button "¡Jugar! →" [ref=e467] [cursor=pointer]
+          - generic [ref=e468]:
+            - generic: 🔗
+            - generic [ref=e469]:
+              - generic [ref=e470]:
+                - generic [ref=e471]: ★
+                - generic [ref=e472]: ★
+                - generic [ref=e473]: ★
+              - generic [ref=e474]: +70 XP
+            - generic [ref=e475]:
+              - generic [ref=e476]: 🔗 Unir
+              - paragraph [ref=e477]: "Une con Líneas: Historia"
+              - paragraph [ref=e478]: Conecta cada prócer con su logro histórico
+              - button "¡Jugar! →" [ref=e479] [cursor=pointer]
+          - generic [ref=e480]:
+            - generic: 🔤
+            - generic [ref=e481]:
+              - generic [ref=e482]:
+                - generic [ref=e483]: ★
+                - generic [ref=e484]: ★
+                - generic [ref=e485]: ★
+              - generic [ref=e486]: +55 XP
+            - generic [ref=e487]:
+              - generic [ref=e488]: 🔤 Descifra
+              - paragraph [ref=e489]: Ordena las Letras
+              - paragraph [ref=e490]: Toca las letras en orden para formar la palabra
+              - button "¡Jugar! →" [ref=e491] [cursor=pointer]
+          - generic [ref=e492]:
+            - generic: 🔬
+            - generic [ref=e493]:
+              - generic [ref=e494]:
+                - generic [ref=e495]: ★
+                - generic [ref=e496]: ★
+                - generic [ref=e497]: ★
+              - generic [ref=e498]: +50 XP
+            - generic [ref=e499]:
+              - generic [ref=e500]: 📦 Clasificar
+              - paragraph [ref=e501]: ¿Animal o Planta?
+              - paragraph [ref=e502]: Clasifica cada ser vivo en su categoría
+              - button "¡Jugar! →" [ref=e503] [cursor=pointer]
+      - generic [ref=e506]:
+        - generic [ref=e507]:
+          - generic [ref=e508]:
+            - generic [ref=e509]: 🍕 Pastel de Fracciones
+            - generic [ref=e510]:
+              - generic [ref=e511]: ⭐ 0 pts
+              - button [ref=e512] [cursor=pointer]:
+                - img [ref=e513]
+          - generic [ref=e517]:
+            - generic [ref=e518]: Ronda 1 de 5
+            - generic [ref=e519]: 0%
+        - generic [ref=e521]:
+          - paragraph [ref=e522]: Colorea 1/2 del pastel (la mitad)
+          - paragraph [ref=e523]:
+            - text: "Partes coloreadas:"
+            - strong [ref=e524]: "0"
+            - text: de 4
+          - img [ref=e525]
+          - generic [ref=e540]:
+            - generic [ref=e541]: "Fracción:"
+            - generic [ref=e542]:
+              - generic [ref=e543]: "1"
+              - generic [ref=e545]: "2"
+          - button "¡Verificar! ✓" [ref=e546] [cursor=pointer]

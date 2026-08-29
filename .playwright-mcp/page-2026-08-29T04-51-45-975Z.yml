@@ -1,0 +1,147 @@
+- generic [ref=e103]:
+  - complementary [ref=e104]:
+    - generic [ref=e105]:
+      - img "EduMATICA" [ref=e106]
+      - paragraph [ref=e107]: Portal Docente
+    - generic [ref=e108]:
+      - generic [ref=e109]:
+        - generic [ref=e110]: 👩‍🏫
+        - generic [ref=e111]:
+          - paragraph [ref=e112]: Ana María Castro
+          - paragraph [ref=e113]: Escuela Pública Rubén Darío
+      - generic [ref=e114]:
+        - img [ref=e115]
+        - generic [ref=e118]: 3° grado
+        - generic [ref=e119]: Docente
+    - navigation [ref=e120]:
+      - button "Inicio" [ref=e121]:
+        - img [ref=e122]
+        - generic [ref=e127]: Inicio
+      - button "Mis Alumnos" [ref=e130]:
+        - img [ref=e131]
+        - generic [ref=e136]: Mis Alumnos
+      - button "Planificación" [ref=e137]:
+        - img [ref=e138]
+        - generic [ref=e140]: Planificación
+        - img [ref=e723]
+      - button "Material MINED" [ref=e141]:
+        - img [ref=e142]
+        - generic [ref=e145]: Material MINED
+    - button "Cerrar sesión" [ref=e147]:
+      - img [ref=e148]
+      - generic [ref=e151]: Cerrar sesión
+  - main [ref=e153]:
+    - generic [ref=e725]:
+      - generic [ref=e726]:
+        - generic [ref=e727]:
+          - paragraph [ref=e728]: PLANIFICACIÓN DIDÁCTICA
+          - heading "Plan de Clases" [level=1] [ref=e729]
+          - paragraph [ref=e730]: 3° grado · 15 unidades · 22 planes de clase
+        - img [ref=e731]
+      - generic [ref=e733]:
+        - generic [ref=e734]:
+          - button "🔢 Matemática 3" [ref=e735] [cursor=pointer]:
+            - text: 🔢 Matemática
+            - generic [ref=e736]: "3"
+          - button "📚 Lengua" [ref=e737] [cursor=pointer]
+          - button "💚 Creciendo" [ref=e738] [cursor=pointer]
+          - button "🇳🇮 Identidad" [ref=e739] [cursor=pointer]
+          - button "🔬 Ciencias" [ref=e740] [cursor=pointer]
+        - generic [ref=e741]:
+          - generic [ref=e742]:
+            - generic [ref=e743]: 🔢
+            - generic [ref=e744]:
+              - paragraph [ref=e745]: Matemática
+              - paragraph [ref=e746]: 3 unidades · 6 planes de clase
+          - generic [ref=e747]:
+            - 'button "1 Unidad 1: Números Naturales hasta 1000 Sem. 1 – 4 · 2 planes de clase Sem. 1 – 4" [ref=e748] [cursor=pointer]':
+              - generic [ref=e749]: "1"
+              - generic [ref=e750]:
+                - paragraph [ref=e751]: "Unidad 1: Números Naturales hasta 1000"
+                - paragraph [ref=e752]: Sem. 1 – 4 · 2 planes de clase
+              - generic [ref=e753]: Sem. 1 – 4
+              - img [ref=e754]
+            - generic [ref=e756]:
+              - generic [ref=e757]:
+                - button "1 Los números del 100 al 500 2024-02-05 · 45 min" [active] [ref=e758] [cursor=pointer]:
+                  - generic [ref=e759]: "1"
+                  - generic [ref=e760]:
+                    - paragraph [ref=e761]: Los números del 100 al 500
+                    - paragraph [ref=e762]: 2024-02-05 · 45 min
+                  - img [ref=e763]
+                - generic [ref=e792]:
+                  - generic [ref=e793]:
+                    - generic [ref=e794]:
+                      - img [ref=e795]
+                      - text: 45 min
+                    - generic [ref=e798]:
+                      - img [ref=e799]
+                      - text: 2024-02-05
+                  - generic [ref=e801]:
+                    - generic [ref=e802]:
+                      - img [ref=e803]
+                      - generic [ref=e807]: Indicadores de logro
+                    - list [ref=e808]:
+                      - listitem [ref=e809]:
+                        - generic [ref=e810]: "1"
+                        - text: Leer y escribir números naturales hasta 500
+                      - listitem [ref=e811]:
+                        - generic [ref=e812]: "2"
+                        - text: Identificar el valor posicional de centenas, decenas y unidades
+                  - generic [ref=e813]:
+                    - generic [ref=e814]:
+                      - img [ref=e815]
+                      - generic [ref=e817]: Tres momentos de la clase
+                    - generic [ref=e818]:
+                      - generic [ref=e819]:
+                        - generic [ref=e820]:
+                          - generic [ref=e821]: 🔔
+                          - generic [ref=e822]: Inicio
+                          - generic [ref=e823]: 10 min
+                        - paragraph [ref=e825]: "Dinámica con fichas numéricas: cada estudiante recibe un número y debe ordenarse de menor a mayor."
+                      - generic [ref=e826]:
+                        - generic [ref=e827]:
+                          - generic [ref=e828]: ⚙️
+                          - generic [ref=e829]: Desarrollo
+                          - generic [ref=e830]: 25 min
+                        - paragraph [ref=e832]: Explicación del sistema de valor posicional usando el ábaco. Ejercicios en la pizarra con participación de estudiantes. Trabajo individual en cuaderno.
+                      - generic [ref=e833]:
+                        - generic [ref=e834]:
+                          - generic [ref=e835]: ✅
+                          - generic [ref=e836]: Cierre
+                          - generic [ref=e837]: 10 min
+                        - paragraph [ref=e839]: Juego "¿Qué número soy?" — el docente describe un número y los estudiantes escriben en su pizarrín.
+                  - generic [ref=e840]:
+                    - generic [ref=e841]:
+                      - img [ref=e842]
+                      - generic [ref=e844]: Recursos didácticos
+                    - generic [ref=e845]:
+                      - generic [ref=e846]: 📌 Fichas numéricas
+                      - generic [ref=e847]: 📌 Ábaco
+                      - generic [ref=e848]: 📌 Pizarrín individual
+                      - generic [ref=e849]: 📌 Libro de Matemática 3° p. 12-18
+                  - generic [ref=e850]:
+                    - generic [ref=e851]:
+                      - img [ref=e852]
+                      - generic [ref=e855]: Evaluación
+                    - paragraph [ref=e856]: "Ejercicio de escritura de 10 números dictados. Criterio: 8/10 correctos."
+              - button "2 Los números del 500 al 1000 2024-02-12 · 45 min" [ref=e766] [cursor=pointer]:
+                - generic [ref=e767]: "2"
+                - generic [ref=e768]:
+                  - paragraph [ref=e769]: Los números del 500 al 1000
+                  - paragraph [ref=e770]: 2024-02-12 · 45 min
+                - img [ref=e771]
+          - 'button "2 Unidad 2: Operaciones Básicas Sem. 5 – 9 · 2 planes de clase Sem. 5 – 9" [ref=e774] [cursor=pointer]':
+            - generic [ref=e775]: "2"
+            - generic [ref=e776]:
+              - paragraph [ref=e777]: "Unidad 2: Operaciones Básicas"
+              - paragraph [ref=e778]: Sem. 5 – 9 · 2 planes de clase
+            - generic [ref=e779]: Sem. 5 – 9
+            - img [ref=e780]
+          - 'button "3 Unidad 3: Fracciones Simples Sem. 10 – 14 · 2 planes de clase Sem. 10 – 14" [ref=e783] [cursor=pointer]':
+            - generic [ref=e784]: "3"
+            - generic [ref=e785]:
+              - paragraph [ref=e786]: "Unidad 3: Fracciones Simples"
+              - paragraph [ref=e787]: Sem. 10 – 14 · 2 planes de clase
+            - generic [ref=e788]: Sem. 10 – 14
+            - img [ref=e789]

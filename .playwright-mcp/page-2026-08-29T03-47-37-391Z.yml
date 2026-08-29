@@ -1,0 +1,396 @@
+- generic [ref=e66]:
+  - complementary [ref=e67]:
+    - generic [ref=e68]:
+      - img "EduMATICA" [ref=e69]
+      - paragraph [ref=e70]: Educación Primaria Nicaragua
+    - generic [ref=e71]:
+      - generic [ref=e72]:
+        - generic [ref=e73]: 🦋
+        - generic [ref=e74]:
+          - paragraph [ref=e75]: Sofía
+          - paragraph [ref=e76]: "@sofia123"
+      - generic [ref=e77]:
+        - generic [ref=e78]:
+          - img [ref=e79]
+          - text: 1340 XP
+        - generic [ref=e81]: Niv. 7
+    - navigation [ref=e84]:
+      - button "Inicio" [ref=e85]:
+        - img [ref=e86]
+        - generic [ref=e91]: Inicio
+      - button "Lecciones" [ref=e94]:
+        - img [ref=e95]
+        - generic [ref=e97]: Lecciones
+      - button "Juegos" [ref=e98]:
+        - img [ref=e99]
+        - generic [ref=e101]: Juegos
+      - button "Material" [active] [ref=e102]:
+        - img [ref=e103]
+        - generic [ref=e105]: Material
+        - img [ref=e551]
+      - button "Logros" [ref=e106]:
+        - img [ref=e107]
+        - generic [ref=e113]: Logros
+      - button "Perfil" [ref=e114]:
+        - img [ref=e115]
+        - generic [ref=e118]: Perfil
+    - generic [ref=e119]:
+      - generic [ref=e120]:
+        - generic [ref=e121]:
+          - img [ref=e122]
+          - generic [ref=e124]: 7 días de racha
+        - generic [ref=e125]: 3°
+      - button "Cerrar sesión" [ref=e126]:
+        - img [ref=e127]
+        - generic [ref=e130]: Cerrar sesión
+  - main [ref=e132]:
+    - generic [ref=e553]:
+      - generic [ref=e554]:
+        - generic [ref=e555]:
+          - generic [ref=e556]:
+            - paragraph [ref=e557]: BIBLIOTECA DIGITAL
+            - heading "Material Didáctico" [level=1] [ref=e558]
+            - paragraph [ref=e559]: Recursos educativos complementarios para 3° grado
+            - generic [ref=e560]:
+              - generic [ref=e561]: 📚 19 recursos
+              - generic [ref=e562]: 🎓 5 asignaturas
+          - generic [ref=e563]: 📖
+        - img [ref=e565]
+      - generic [ref=e567]:
+        - generic [ref=e568]:
+          - button "Todas" [ref=e569] [cursor=pointer]
+          - button "🔢 Matemática" [ref=e570] [cursor=pointer]
+          - button "📚 Lengua y Literatura" [ref=e571] [cursor=pointer]
+          - button "💚 Creciendo en Valores" [ref=e572] [cursor=pointer]
+          - button "🇳🇮 Identidad Nacional y Orgullo Patrio" [ref=e573] [cursor=pointer]
+          - button "🔬 Ciencias Naturales" [ref=e574] [cursor=pointer]
+        - generic [ref=e575]:
+          - button "Todos los tipos" [ref=e576] [cursor=pointer]
+          - button "Libro" [ref=e577] [cursor=pointer]:
+            - img [ref=e578]
+            - text: Libro
+          - button "Ficha" [ref=e580] [cursor=pointer]:
+            - img [ref=e581]
+            - text: Ficha
+          - button "Video" [ref=e584] [cursor=pointer]:
+            - img [ref=e585]
+            - text: Video
+          - button "Mapa" [ref=e588] [cursor=pointer]:
+            - img [ref=e589]
+            - text: Mapa
+          - button "Formulario" [ref=e591] [cursor=pointer]:
+            - img [ref=e592]
+            - text: Formulario
+        - paragraph [ref=e595]: 17 recursos encontrados
+        - generic [ref=e596]:
+          - generic [ref=e597]:
+            - generic [ref=e598]:
+              - generic [ref=e599]: 📚
+              - generic [ref=e600]:
+                - generic [ref=e601]:
+                  - img [ref=e602]
+                  - text: Libro
+                - paragraph [ref=e604]: Matemática 3° Grado
+            - generic [ref=e605]:
+              - paragraph [ref=e606]: Libro de texto oficial MINED Nicaragua
+              - generic [ref=e607]:
+                - generic [ref=e608]: 🔢 Matemática
+                - generic [ref=e609]:
+                  - img [ref=e610]
+                  - text: 128 páginas
+                - generic [ref=e613]: 3° grado
+              - button "Abrir recurso" [ref=e614] [cursor=pointer]:
+                - img [ref=e615]
+                - text: Abrir recurso
+          - generic [ref=e619]:
+            - generic [ref=e620]:
+              - generic [ref=e621]: 📄
+              - generic [ref=e622]:
+                - generic [ref=e623]:
+                  - img [ref=e624]
+                  - text: Ficha
+                - paragraph [ref=e627]: Tablas de Multiplicar
+            - generic [ref=e628]:
+              - paragraph [ref=e629]: Ficha de práctica con todas las tablas del 1 al 10
+              - generic [ref=e630]:
+                - generic [ref=e631]: 🔢 Matemática
+                - generic [ref=e632]:
+                  - img [ref=e633]
+                  - text: 4 páginas
+                - generic [ref=e636]: 2°, 3°, 4° grado
+              - button "Abrir recurso" [ref=e637] [cursor=pointer]:
+                - img [ref=e638]
+                - text: Abrir recurso
+          - generic [ref=e642]:
+            - generic [ref=e643]:
+              - generic [ref=e644]: 📄
+              - generic [ref=e645]:
+                - generic [ref=e646]:
+                  - img [ref=e647]
+                  - text: Ficha
+                - paragraph [ref=e650]: "Fracciones: Paso a Paso"
+            - generic [ref=e651]:
+              - paragraph [ref=e652]: Guía visual para entender fracciones simples
+              - generic [ref=e653]:
+                - generic [ref=e654]: 🔢 Matemática
+                - generic [ref=e655]:
+                  - img [ref=e656]
+                  - text: 6 páginas
+                - generic [ref=e659]: 3°, 4° grado
+              - button "Abrir recurso" [ref=e660] [cursor=pointer]:
+                - img [ref=e661]
+                - text: Abrir recurso
+          - generic [ref=e665]:
+            - generic [ref=e666]:
+              - generic [ref=e667]: 🎬
+              - generic [ref=e668]:
+                - generic [ref=e669]:
+                  - img [ref=e670]
+                  - text: Video
+                - paragraph [ref=e673]: Figuras Geométricas
+            - generic [ref=e674]:
+              - paragraph [ref=e675]: Video explicativo sobre formas básicas
+              - generic [ref=e676]:
+                - generic [ref=e677]: 🔢 Matemática
+                - generic [ref=e678]: ▶ 8 min
+                - generic [ref=e679]: 1°, 2°, 3° grado
+              - button "Abrir recurso" [ref=e680] [cursor=pointer]:
+                - img [ref=e681]
+                - text: Abrir recurso
+          - generic [ref=e685]:
+            - generic [ref=e686]:
+              - generic [ref=e687]: 📚
+              - generic [ref=e688]:
+                - generic [ref=e689]:
+                  - img [ref=e690]
+                  - text: Libro
+                - paragraph [ref=e692]: Mi Libro de Lectura
+            - generic [ref=e693]:
+              - paragraph [ref=e694]: Lecturas graduadas para primaria nicaragüense
+              - generic [ref=e695]:
+                - generic [ref=e696]: 📚 Lengua y Literatura
+                - generic [ref=e697]:
+                  - img [ref=e698]
+                  - text: 96 páginas
+                - generic [ref=e701]: 1°, 2°, 3°, 4°, 5°, 6° grado
+              - button "Abrir recurso" [ref=e702] [cursor=pointer]:
+                - img [ref=e703]
+                - text: Abrir recurso
+          - generic [ref=e707]:
+            - generic [ref=e708]:
+              - generic [ref=e709]: 📄
+              - generic [ref=e710]:
+                - generic [ref=e711]:
+                  - img [ref=e712]
+                  - text: Ficha
+                - paragraph [ref=e715]: Reglas de Ortografía
+            - generic [ref=e716]:
+              - paragraph [ref=e717]: Las reglas ortográficas más importantes del español
+              - generic [ref=e718]:
+                - generic [ref=e719]: 📚 Lengua y Literatura
+                - generic [ref=e720]:
+                  - img [ref=e721]
+                  - text: 5 páginas
+                - generic [ref=e724]: 3°, 4°, 5° grado
+              - button "Abrir recurso" [ref=e725] [cursor=pointer]:
+                - img [ref=e726]
+                - text: Abrir recurso
+          - generic [ref=e730]:
+            - generic [ref=e731]:
+              - generic [ref=e732]: 📝
+              - generic [ref=e733]:
+                - generic [ref=e734]:
+                  - img [ref=e735]
+                  - text: Formulario
+                - paragraph [ref=e738]: Comprensión Lectora
+            - generic [ref=e739]:
+              - paragraph [ref=e740]: Formulario de evaluación de comprensión
+              - generic [ref=e741]:
+                - generic [ref=e742]: 📚 Lengua y Literatura
+                - generic [ref=e743]:
+                  - img [ref=e744]
+                  - text: 3 páginas
+                - generic [ref=e747]: 2°, 3°, 4°, 5° grado
+              - button "Abrir recurso" [ref=e748] [cursor=pointer]:
+                - img [ref=e749]
+                - text: Abrir recurso
+          - generic [ref=e753]:
+            - generic [ref=e754]:
+              - generic [ref=e755]: 📚
+              - generic [ref=e756]:
+                - generic [ref=e757]:
+                  - img [ref=e758]
+                  - text: Libro
+                - paragraph [ref=e760]: Ciencias Naturales 3°
+            - generic [ref=e761]:
+              - paragraph [ref=e762]: Libro oficial de ciencias para tercer grado
+              - generic [ref=e763]:
+                - generic [ref=e764]: 🔬 Ciencias Naturales
+                - generic [ref=e765]:
+                  - img [ref=e766]
+                  - text: 112 páginas
+                - generic [ref=e769]: 3° grado
+              - button "Abrir recurso" [ref=e770] [cursor=pointer]:
+                - img [ref=e771]
+                - text: Abrir recurso
+          - generic [ref=e775]:
+            - generic [ref=e776]:
+              - generic [ref=e777]: 🗺️
+              - generic [ref=e778]:
+                - generic [ref=e779]:
+                  - img [ref=e780]
+                  - text: Mapa
+                - paragraph [ref=e782]: Biomas de Nicaragua
+            - generic [ref=e783]:
+              - paragraph [ref=e784]: Mapa de los ecosistemas y biomas del país
+              - generic [ref=e785]:
+                - generic [ref=e786]: 🔬 Ciencias Naturales
+                - generic [ref=e787]: 3°, 4°, 5°, 6° grado
+              - button "Abrir recurso" [ref=e788] [cursor=pointer]:
+                - img [ref=e789]
+                - text: Abrir recurso
+          - generic [ref=e793]:
+            - generic [ref=e794]:
+              - generic [ref=e795]: 📄
+              - generic [ref=e796]:
+                - generic [ref=e797]:
+                  - img [ref=e798]
+                  - text: Ficha
+                - paragraph [ref=e801]: El Sistema Solar
+            - generic [ref=e802]:
+              - paragraph [ref=e803]: Ficha informativa con datos de los planetas
+              - generic [ref=e804]:
+                - generic [ref=e805]: 🔬 Ciencias Naturales
+                - generic [ref=e806]:
+                  - img [ref=e807]
+                  - text: 4 páginas
+                - generic [ref=e810]: 3°, 4°, 5° grado
+              - button "Abrir recurso" [ref=e811] [cursor=pointer]:
+                - img [ref=e812]
+                - text: Abrir recurso
+          - generic [ref=e816]:
+            - generic [ref=e817]:
+              - generic [ref=e818]: 🎬
+              - generic [ref=e819]:
+                - generic [ref=e820]:
+                  - img [ref=e821]
+                  - text: Video
+                - paragraph [ref=e824]: La Fotosíntesis
+            - generic [ref=e825]:
+              - paragraph [ref=e826]: Animación educativa sobre cómo se alimentan las plantas
+              - generic [ref=e827]:
+                - generic [ref=e828]: 🔬 Ciencias Naturales
+                - generic [ref=e829]: ▶ 6 min
+                - generic [ref=e830]: 2°, 3°, 4° grado
+              - button "Abrir recurso" [ref=e831] [cursor=pointer]:
+                - img [ref=e832]
+                - text: Abrir recurso
+          - generic [ref=e836]:
+            - generic [ref=e837]:
+              - generic [ref=e838]: 🗺️
+              - generic [ref=e839]:
+                - generic [ref=e840]:
+                  - img [ref=e841]
+                  - text: Mapa
+                - paragraph [ref=e843]: Mapa de Nicaragua
+            - generic [ref=e844]:
+              - paragraph [ref=e845]: Departamentos, municipios y accidentes geográficos
+              - generic [ref=e846]:
+                - generic [ref=e847]: 🇳🇮 Identidad Nacional y Orgullo Patrio
+                - generic [ref=e848]: 3°, 4°, 5°, 6° grado
+              - button "Abrir recurso" [ref=e849] [cursor=pointer]:
+                - img [ref=e850]
+                - text: Abrir recurso
+          - generic [ref=e854]:
+            - generic [ref=e855]:
+              - generic [ref=e856]: 📄
+              - generic [ref=e857]:
+                - generic [ref=e858]:
+                  - img [ref=e859]
+                  - text: Ficha
+                - paragraph [ref=e862]: Héroes y Mártires
+            - generic [ref=e863]:
+              - paragraph [ref=e864]: Ficha sobre los principales héroes nacionales
+              - generic [ref=e865]:
+                - generic [ref=e866]: 🇳🇮 Identidad Nacional y Orgullo Patrio
+                - generic [ref=e867]:
+                  - img [ref=e868]
+                  - text: 5 páginas
+                - generic [ref=e871]: 3°, 4°, 5°, 6° grado
+              - button "Abrir recurso" [ref=e872] [cursor=pointer]:
+                - img [ref=e873]
+                - text: Abrir recurso
+          - generic [ref=e877]:
+            - generic [ref=e878]:
+              - generic [ref=e879]: 📝
+              - generic [ref=e880]:
+                - generic [ref=e881]:
+                  - img [ref=e882]
+                  - text: Formulario
+                - paragraph [ref=e885]: Símbolos Patrios
+            - generic [ref=e886]:
+              - paragraph [ref=e887]: Cuestionario sobre los símbolos nacionales
+              - generic [ref=e888]:
+                - generic [ref=e889]: 🇳🇮 Identidad Nacional y Orgullo Patrio
+                - generic [ref=e890]:
+                  - img [ref=e891]
+                  - text: 2 páginas
+                - generic [ref=e894]: 2°, 3°, 4° grado
+              - button "Abrir recurso" [ref=e895] [cursor=pointer]:
+                - img [ref=e896]
+                - text: Abrir recurso
+          - generic [ref=e900]:
+            - generic [ref=e901]:
+              - generic [ref=e902]: 📚
+              - generic [ref=e903]:
+                - generic [ref=e904]:
+                  - img [ref=e905]
+                  - text: Libro
+                - paragraph [ref=e907]: Creciendo en Valores
+            - generic [ref=e908]:
+              - paragraph [ref=e909]: Libro de formación en valores para primaria
+              - generic [ref=e910]:
+                - generic [ref=e911]: 💚 Creciendo en Valores
+                - generic [ref=e912]:
+                  - img [ref=e913]
+                  - text: 80 páginas
+                - generic [ref=e916]: 1°, 2°, 3°, 4°, 5°, 6° grado
+              - button "Abrir recurso" [ref=e917] [cursor=pointer]:
+                - img [ref=e918]
+                - text: Abrir recurso
+          - generic [ref=e922]:
+            - generic [ref=e923]:
+              - generic [ref=e924]: 📄
+              - generic [ref=e925]:
+                - generic [ref=e926]:
+                  - img [ref=e927]
+                  - text: Ficha
+                - paragraph [ref=e930]: Mi Familia y Yo
+            - generic [ref=e931]:
+              - paragraph [ref=e932]: Ficha de reflexión sobre los valores en familia
+              - generic [ref=e933]:
+                - generic [ref=e934]: 💚 Creciendo en Valores
+                - generic [ref=e935]:
+                  - img [ref=e936]
+                  - text: 3 páginas
+                - generic [ref=e939]: 1°, 2°, 3° grado
+              - button "Abrir recurso" [ref=e940] [cursor=pointer]:
+                - img [ref=e941]
+                - text: Abrir recurso
+          - generic [ref=e945]:
+            - generic [ref=e946]:
+              - generic [ref=e947]: 🎬
+              - generic [ref=e948]:
+                - generic [ref=e949]:
+                  - img [ref=e950]
+                  - text: Video
+                - paragraph [ref=e953]: Solidaridad y Amistad
+            - generic [ref=e954]:
+              - paragraph [ref=e955]: Video educativo sobre el valor de la solidaridad
+              - generic [ref=e956]:
+                - generic [ref=e957]: 💚 Creciendo en Valores
+                - generic [ref=e958]: ▶ 5 min
+                - generic [ref=e959]: 1°, 2°, 3°, 4° grado
+              - button "Abrir recurso" [ref=e960] [cursor=pointer]:
+                - img [ref=e961]
+                - text: Abrir recurso

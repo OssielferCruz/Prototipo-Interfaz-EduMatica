@@ -1,0 +1,60 @@
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "EduMATICA" [ref=e6]
+    - generic [ref=e7]:
+      - paragraph [ref=e8]: Plataforma Docente Nicaragua
+      - heading "Enseñar con propósito y pasión" [level=1] [ref=e72]:
+        - text: Enseñar
+        - text: con propósito
+        - text: y pasión
+      - paragraph [ref=e10]: Gestiona tu aula, planifica tus clases y accede al material del MINED desde un solo lugar.
+      - list [ref=e11]:
+        - listitem [ref=e73]:
+          - img [ref=e74]
+          - generic [ref=e77]: Monitoreo de progreso por alumno
+        - listitem [ref=e78]:
+          - img [ref=e79]
+          - generic [ref=e82]: Plan de clases organizado por unidades
+        - listitem [ref=e83]:
+          - img [ref=e84]
+          - generic [ref=e87]: Material didáctico del MINED
+        - listitem [ref=e88]:
+          - img [ref=e89]
+          - generic [ref=e92]: Seguimiento de actividad del aula
+    - generic [ref=e32]:
+      - generic [ref=e93]: 1° Grado
+      - generic [ref=e94]: 2° Grado
+      - generic [ref=e95]: 3° Grado
+      - generic [ref=e96]: 4° Grado
+      - generic [ref=e97]: 5° Grado
+      - generic [ref=e98]: 6° Grado
+  - generic [ref=e39]:
+    - generic [ref=e40]:
+      - button "Estudiante" [ref=e41] [cursor=pointer]:
+        - img [ref=e42]
+        - text: Estudiante
+      - button "Docente" [ref=e44] [cursor=pointer]:
+        - img [ref=e45]
+        - text: Docente
+    - heading "Bienvenido, profe" [level=2] [ref=e99]
+    - paragraph [ref=e49]: Inicia sesión para gestionar tu aula
+    - generic [ref=e103]: Completa todos los campos.
+    - generic [ref=e50]:
+      - generic [ref=e51]:
+        - generic [ref=e52]: Correo institucional
+        - textbox "Tu correo MINED..." [ref=e100]
+      - generic [ref=e54]:
+        - generic [ref=e55]: Contraseña
+        - generic [ref=e56]:
+          - textbox "Tu contraseña..." [ref=e57]
+          - button [ref=e58]:
+            - img [ref=e59]
+      - generic [ref=e62]:
+        - generic [ref=e63] [cursor=pointer]:
+          - checkbox "Recuérdame" [ref=e64]
+          - generic [ref=e65]: Recuérdame
+        - button "¿Olvidaste tu contraseña?" [ref=e66]
+      - button "Ingresar como docente" [active] [ref=e101]
+    - generic [ref=e70]:
+      - strong [ref=e71]: "Demo:"
+      - text: escribe cualquier correo y contraseña para explorar la app.

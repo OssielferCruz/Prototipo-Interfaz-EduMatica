@@ -1,0 +1,55 @@
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img "EduMATICA" [ref=e6]
+    - generic [ref=e7]:
+      - paragraph [ref=e8]: Plataforma Educativa Nicaragua
+      - heading "Aprender es la mejor aventura" [level=1] [ref=e9]:
+        - text: Aprender
+        - text: es la mejor
+        - text: aventura
+      - paragraph [ref=e10]: "La plataforma educativa de Nicaragua: aprende, juega y crece con EduMATICA."
+      - list [ref=e11]:
+        - listitem [ref=e12]:
+          - img [ref=e13]
+          - generic [ref=e16]: 5 materias del currículo MINED Nicaragua
+        - listitem [ref=e17]:
+          - img [ref=e18]
+          - generic [ref=e21]: Lecciones para 1° a 6° grado
+        - listitem [ref=e22]:
+          - img [ref=e23]
+          - generic [ref=e26]: Juegos educativos interactivos
+        - listitem [ref=e27]:
+          - img [ref=e28]
+          - generic [ref=e31]: Sistema de logros y progreso
+    - generic [ref=e32]:
+      - generic [ref=e33]: 1° Grado
+      - generic [ref=e34]: 2° Grado
+      - generic [ref=e35]: 3° Grado
+      - generic [ref=e36]: 4° Grado
+      - generic [ref=e37]: 5° Grado
+      - generic [ref=e38]: 6° Grado
+  - generic [ref=e40]:
+    - heading "Bienvenido de nuevo" [level=2] [ref=e41]
+    - paragraph [ref=e42]: Inicia sesión para continuar aprendiendo
+    - generic [ref=e43]:
+      - generic [ref=e44]:
+        - generic [ref=e45]: Usuario o correo
+        - textbox "Tu usuario..." [ref=e46]
+      - generic [ref=e47]:
+        - generic [ref=e48]: Contraseña
+        - generic [ref=e49]:
+          - textbox "Tu contraseña..." [ref=e50]
+          - button [ref=e51]:
+            - img [ref=e52]
+      - generic [ref=e55]:
+        - generic [ref=e56] [cursor=pointer]:
+          - checkbox "Recuérdame" [ref=e57]
+          - generic [ref=e58]: Recuérdame
+        - button "¿Olvidaste tu contraseña?" [ref=e59]
+      - button "Iniciar sesión" [ref=e60]
+    - paragraph [ref=e61]:
+      - text: ¿No tienes cuenta?
+      - button "Regístrate" [ref=e62]
+    - generic [ref=e63]:
+      - strong [ref=e64]: "Demo:"
+      - text: escribe cualquier usuario y contraseña para explorar la app.

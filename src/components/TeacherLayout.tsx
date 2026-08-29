@@ -29,7 +29,12 @@ export default function TeacherLayout({ teacher, view, navigate, onLogout, child
       <aside className="hidden md:flex flex-col w-60 shrink-0" style={{ background: 'var(--nav-bg)' }}>
 
         {/* Logo */}
-        <div className="px-5 pt-5 pb-4 border-b" style={{ borderColor: '#ffffff12' }}>
+        <div
+          onClick={onLogout}
+          className="px-5 pt-5 pb-4 border-b cursor-pointer transition-opacity hover:opacity-80"
+          style={{ borderColor: '#ffffff12' }}
+          title="Volver al inicio de sesión"
+        >
           <img src={edumaticaLogo} alt="EduMATICA" style={{ height: 52, width: 'auto', display: 'block' }} />
           <p className="text-xs mt-1.5" style={{ color: '#4a6e88' }}>Portal Docente</p>
         </div>
@@ -103,7 +108,14 @@ export default function TeacherLayout({ teacher, view, navigate, onLogout, child
       <div className="flex-1 flex flex-col overflow-hidden">
         {/* Mobile top bar */}
         <header className="md:hidden flex items-center justify-between px-4 py-3 border-b" style={{ background: 'var(--nav-bg)', borderColor: '#ffffff12' }}>
-          <img src={edumaticaLogo} alt="EduMATICA" style={{ height: 28, width: 'auto' }} />
+          <img
+            src={edumaticaLogo}
+            alt="EduMATICA"
+            onClick={onLogout}
+            className="cursor-pointer transition-opacity hover:opacity-80"
+            title="Volver al inicio de sesión"
+            style={{ height: 28, width: 'auto' }}
+          />
           <span className="text-xl">{teacher.avatar}</span>
         </header>
 

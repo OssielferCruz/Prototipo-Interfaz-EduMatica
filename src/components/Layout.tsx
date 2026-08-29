@@ -44,7 +44,12 @@ export default function Layout({ user, view, navigate, onLogout, children }: Pro
         style={{ background: 'var(--nav-bg)' }}
       >
         {/* Logo */}
-        <div className="px-5 pt-5 pb-4 border-b" style={{ borderColor: '#ffffff12' }}>
+        <div
+          onClick={onLogout}
+          className="px-5 pt-5 pb-4 border-b cursor-pointer transition-opacity hover:opacity-80"
+          style={{ borderColor: '#ffffff12' }}
+          title="Volver al inicio de sesión"
+        >
           <img src={edumaticaLogo} alt="EduMATICA" style={{ height: 52, width: 'auto', display: 'block' }} />
           <p className="text-xs mt-1.5" style={{ color: '#4a6e88' }}>Educación Primaria Nicaragua</p>
         </div>
@@ -144,7 +149,11 @@ export default function Layout({ user, view, navigate, onLogout, children }: Pro
           className="md:hidden flex items-center justify-between px-4 py-3 border-b"
           style={{ background: 'var(--nav-bg)', borderColor: '#ffffff12' }}
         >
-          <div className="flex items-center gap-2">
+          <div
+            onClick={onLogout}
+            className="flex items-center gap-2 cursor-pointer transition-opacity hover:opacity-80"
+            title="Volver al inicio de sesión"
+          >
             <img src={edumaticaLogo} alt="EduMATICA" style={{ height: 28, width: 'auto' }} />
           </div>
           <span className="text-xl">{user.avatar}</span>
